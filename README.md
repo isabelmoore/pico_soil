@@ -18,8 +18,6 @@ Welcome to the `Pi Pico Soil Moisture Indicator` project! This guide will show y
 1. **Trim and solder wires:** Make sure to trim and solder the wires according to your setup needs. For beginners, YouTube has excellent tutorials on soldering and wire trimming.
 2. **Connect the components:** Follow the circuit diagram below to connect your components. Use short wires to keep your setup tidy, although longer wires can be used depending on your placement needs.
 
-   ![Circuit Diagram](link-to-your-circuit-diagram-here)
-
 ### CircuitPython Setup
 1. **Install CircuitPython on your Raspberry Pi Pico:** Follow Adafruit’s detailed guide to get CircuitPython running on your Pi Pico.
 2. **Download required libraries:** Download the CircuitPython library bundle and transfer the `neopixel.mpy` file into the `lib` folder on your Pi Pico.
